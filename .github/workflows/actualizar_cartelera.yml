@@ -1,0 +1,57 @@
+name: Actualizar cartelera CineTrack
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 3 * * *"
+      timezone: "America/Bogota"
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar-cinemark:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Descargar repositorio
+        uses: actions/checkout@v6
+
+      - name: Configurar Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Instalar Playwright
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+
+      - name: Instalar Chromium
+        run: |
+          python -m playwright install --with-deps chromium
+
+      - name: Ejecutar recolector Cinemark
+        run: |
+          python collector/cinemark_neiva_turbo.py
+
+      - name: Copiar JSON actualizado
+        run: |
+          cp collector/cinemark_neiva_completo.json data/cinemark_neiva_completo.json
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "CineTrack Bot"
+          git config user.email "actions@github.com"
+
+          git add data/cinemark_neiva_completo.json
+
+          if git diff --cached --quiet; then
+            echo "La cartelera no tuvo cambios"
+          else
+            git commit -m "Actualizar cartelera Cinemark Neiva"
+            git push
+          fi
