@@ -1,0 +1,4649 @@
+{
+    "fuente": "Cinemark Colombia",
+    "cine": "Cinemark",
+    "sede": "San Pedro Plaza",
+    "ciudad": "Neiva",
+    "actualizado": "2026-11-09T00:24:56.865242-05:00",
+    "peliculas": [
+        {
+            "titulo": "CLAYFACE",
+            "slug": "clayface",
+            "movieId": "113296",
+            "estado": "CARTELERA",
+            "duracionMinutos": 110,
+            "clasificacion": "15-A",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-11-09",
+                "2026-11-10",
+                "2026-11-11"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "16:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "170244",
+                    "urlCompra": "https://www.cinemark.com.co/compras/clayface/2404/170244"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "18:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "170245",
+                    "urlCompra": "https://www.cinemark.com.co/compras/clayface/2404/170245"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "170246",
+                    "urlCompra": "https://www.cinemark.com.co/compras/clayface/2404/170246"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "16:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "170259",
+                    "urlCompra": "https://www.cinemark.com.co/compras/clayface/2404/170259"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "18:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "170260",
+                    "urlCompra": "https://www.cinemark.com.co/compras/clayface/2404/170260"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "170261",
+                    "urlCompra": "https://www.cinemark.com.co/compras/clayface/2404/170261"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "16:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "170274",
+                    "urlCompra": "https://www.cinemark.com.co/compras/clayface/2404/170274"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "18:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "170275",
+                    "urlCompra": "https://www.cinemark.com.co/compras/clayface/2404/170275"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "170276",
+                    "urlCompra": "https://www.cinemark.com.co/compras/clayface/2404/170276"
+                }
+            ]
+        },
+        {
+            "titulo": "EL CORAZON DE LA BESTIA",
+            "slug": "el-corazon-de-la-bestia",
+            "movieId": "112683",
+            "estado": "CARTELERA",
+            "duracionMinutos": 100,
+            "clasificacion": "12-A",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-11-09",
+                "2026-11-10",
+                "2026-11-11"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 5,
+                    "puestosDisponibles": 197,
+                    "sessionId": "170240",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-corazon-de-la-bestia/2404/170240"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 5,
+                    "puestosDisponibles": 197,
+                    "sessionId": "170255",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-corazon-de-la-bestia/2404/170255"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 5,
+                    "puestosDisponibles": 197,
+                    "sessionId": "170270",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-corazon-de-la-bestia/2404/170270"
+                }
+            ]
+        },
+        {
+            "titulo": "SHREK RE",
+            "slug": "shrek-re",
+            "movieId": "113692",
+            "estado": "CARTELERA",
+            "duracionMinutos": 90,
+            "clasificacion": "Todos",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-11-09",
+                "2026-11-10",
+                "2026-11-11"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "14:50",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "170247",
+                    "urlCompra": "https://www.cinemark.com.co/compras/shrek-re/2404/170247"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "14:50",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "170262",
+                    "urlCompra": "https://www.cinemark.com.co/compras/shrek-re/2404/170262"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "14:50",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "170277",
+                    "urlCompra": "https://www.cinemark.com.co/compras/shrek-re/2404/170277"
+                }
+            ]
+        },
+        {
+            "titulo": "WILDWOOD",
+            "slug": "wildwood",
+            "movieId": "113745",
+            "estado": "CARTELERA",
+            "duracionMinutos": 135,
+            "clasificacion": "12-A",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-11-09",
+                "2026-11-10",
+                "2026-11-11"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "20:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "170249",
+                    "urlCompra": "https://www.cinemark.com.co/compras/wildwood/2404/170249"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "20:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "170264",
+                    "urlCompra": "https://www.cinemark.com.co/compras/wildwood/2404/170264"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "20:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "170279",
+                    "urlCompra": "https://www.cinemark.com.co/compras/wildwood/2404/170279"
+                }
+            ]
+        },
+        {
+            "titulo": "AVENGERS: DOOMSDAY",
+            "slug": "avengers-doomsday",
+            "movieId": "109359",
+            "estado": "PREVENTA",
+            "duracionMinutos": 165,
+            "clasificacion": "TBC",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-12-16",
+                "2026-12-17",
+                "2026-12-18",
+                "2026-12-19",
+                "2026-12-20",
+                "2026-12-21",
+                "2026-12-22",
+                "2026-12-23",
+                "2026-12-25",
+                "2026-12-26",
+                "2026-12-27",
+                "2026-12-28",
+                "2026-12-29",
+                "2026-12-30"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "00:05",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 112,
+                    "sessionId": "167448",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167448"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "00:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 242,
+                    "sessionId": "168067",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168067"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "10:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 242,
+                    "sessionId": "167641",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167641"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 229,
+                    "sessionId": "167637",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167637"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "11:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168127",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168127"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "14:05",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 258,
+                    "sessionId": "167642",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167642"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 216,
+                    "sessionId": "167638",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167638"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "15:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 231,
+                    "sessionId": "167942",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167942"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "17:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 226,
+                    "sessionId": "167643",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167643"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 171,
+                    "sessionId": "167639",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167639"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "18:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 222,
+                    "sessionId": "167943",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167943"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 229,
+                    "sessionId": "167644",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167644"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 206,
+                    "sessionId": "167640",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167640"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "22:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 235,
+                    "sessionId": "168128",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168128"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "10:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167520",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167520"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 278,
+                    "sessionId": "167524",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167524"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "11:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168072",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168072"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "14:05",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 258,
+                    "sessionId": "167521",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167521"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 273,
+                    "sessionId": "167525",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167525"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "15:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168086",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168086"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "17:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167522",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167522"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 245,
+                    "sessionId": "167526",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167526"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "18:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168093",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168093"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167523",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167523"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 268,
+                    "sessionId": "167527",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167527"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "22:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168100",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168100"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "10:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167512",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167512"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 279,
+                    "sessionId": "167516",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167516"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "11:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168103",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168103"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "14:05",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167513",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167513"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167517",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167517"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "15:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168104",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168104"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "17:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167514",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167514"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167518",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167518"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "18:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 233,
+                    "sessionId": "168105",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168105"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 248,
+                    "sessionId": "167515",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167515"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 274,
+                    "sessionId": "167519",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167519"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "22:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168106",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168106"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "10:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167528",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167528"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 280,
+                    "sessionId": "167532",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167532"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "11:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168107",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168107"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "14:05",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167529",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167529"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 273,
+                    "sessionId": "167533",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167533"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "15:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 235,
+                    "sessionId": "168108",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168108"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "17:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167530",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167530"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 270,
+                    "sessionId": "167534",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167534"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "18:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 234,
+                    "sessionId": "168109",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168109"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167531",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167531"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 280,
+                    "sessionId": "167535",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167535"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "22:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168110",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168110"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "10:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167536",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167536"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 280,
+                    "sessionId": "167540",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167540"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "11:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168111",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168111"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "14:05",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167537",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167537"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 280,
+                    "sessionId": "167541",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167541"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "15:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168112",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168112"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "17:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167538",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167538"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167542",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167542"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "18:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168113",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168113"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167539",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167539"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167543",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167543"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "22:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168114",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168114"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "10:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167544",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167544"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167548",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167548"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "11:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168115",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168115"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "14:05",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167545",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167545"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167549",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167549"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "15:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168116",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168116"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "17:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167546",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167546"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167550",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167550"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "18:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168117",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168117"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167547",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167547"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167551",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167551"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "22:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168118",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168118"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "10:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167552",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167552"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167556",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167556"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "11:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168119",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168119"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "14:05",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167553",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167553"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167557",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167557"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "15:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168120",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168120"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "17:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167554",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167554"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 278,
+                    "sessionId": "167558",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167558"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "18:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168121",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168121"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167555",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167555"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167559",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167559"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "22:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168122",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168122"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "10:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167560",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167560"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167564",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167564"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "11:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168123",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168123"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "14:05",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167561",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167561"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167565",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167565"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "15:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168124",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168124"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "17:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167562",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167562"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167566",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167566"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "18:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168125",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168125"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "21:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "167563",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167563"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "167567",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167567"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "22:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 3,
+                    "puestosDisponibles": 237,
+                    "sessionId": "168126",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168126"
+                },
+                {
+                    "fecha": "2026-12-25",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168177",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168177"
+                },
+                {
+                    "fecha": "2026-12-25",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168178",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168178"
+                },
+                {
+                    "fecha": "2026-12-25",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168179",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168179"
+                },
+                {
+                    "fecha": "2026-12-25",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168180",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168180"
+                },
+                {
+                    "fecha": "2026-12-26",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 277,
+                    "sessionId": "168165",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168165"
+                },
+                {
+                    "fecha": "2026-12-26",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168166",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168166"
+                },
+                {
+                    "fecha": "2026-12-26",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168167",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168167"
+                },
+                {
+                    "fecha": "2026-12-26",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168168",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168168"
+                },
+                {
+                    "fecha": "2026-12-27",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168169",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168169"
+                },
+                {
+                    "fecha": "2026-12-27",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168170",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168170"
+                },
+                {
+                    "fecha": "2026-12-27",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168171",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168171"
+                },
+                {
+                    "fecha": "2026-12-27",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168172",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168172"
+                },
+                {
+                    "fecha": "2026-12-28",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168173",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168173"
+                },
+                {
+                    "fecha": "2026-12-28",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168174",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168174"
+                },
+                {
+                    "fecha": "2026-12-28",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168175",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168175"
+                },
+                {
+                    "fecha": "2026-12-28",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168176",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168176"
+                },
+                {
+                    "fecha": "2026-12-29",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168181",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168181"
+                },
+                {
+                    "fecha": "2026-12-29",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168182",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168182"
+                },
+                {
+                    "fecha": "2026-12-29",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 280,
+                    "sessionId": "168183",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168183"
+                },
+                {
+                    "fecha": "2026-12-29",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168184",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168184"
+                },
+                {
+                    "fecha": "2026-12-30",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168185",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168185"
+                },
+                {
+                    "fecha": "2026-12-30",
+                    "hora": "14:35",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168186",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168186"
+                },
+                {
+                    "fecha": "2026-12-30",
+                    "hora": "18:10",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168187",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168187"
+                },
+                {
+                    "fecha": "2026-12-30",
+                    "hora": "21:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD",
+                        "IV"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168188",
+                    "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168188"
+                }
+            ]
+        },
+        {
+            "titulo": "BTS ARIRANG JAKARTA",
+            "slug": "bts-arirang-jakarta",
+            "movieId": "113433",
+            "estado": "PREVENTA",
+            "duracionMinutos": 195,
+            "clasificacion": "TBC",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-12-29"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-12-29",
+                    "hora": "12:00",
+                    "idioma": [],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170002",
+                    "urlCompra": "https://www.cinemark.com.co/compras/bts-arirang-jakarta/2404/170002"
+                }
+            ]
+        },
+        {
+            "titulo": "DUNA PARTE 3",
+            "slug": "duna-parte-3",
+            "movieId": "112803",
+            "estado": "PREVENTA",
+            "duracionMinutos": 165,
+            "clasificacion": "TBC",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-12-15",
+                "2026-12-16",
+                "2026-12-17",
+                "2026-12-18",
+                "2026-12-19",
+                "2026-12-20",
+                "2026-12-21",
+                "2026-12-22",
+                "2026-12-23"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-12-15",
+                    "hora": "14:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "166562",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/166562"
+                },
+                {
+                    "fecha": "2026-12-15",
+                    "hora": "17:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "166563",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/166563"
+                },
+                {
+                    "fecha": "2026-12-15",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 249,
+                    "sessionId": "167126",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/167126"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "10:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "166555",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/166555"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "14:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "166556",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/166556"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "17:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "166558",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/166558"
+                },
+                {
+                    "fecha": "2026-12-16",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "166557",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/166557"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "10:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169614",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169614"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "14:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169615",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169615"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "17:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169616",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169616"
+                },
+                {
+                    "fecha": "2026-12-17",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169617",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169617"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "10:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169610",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169610"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "14:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169611",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169611"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "17:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169612",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169612"
+                },
+                {
+                    "fecha": "2026-12-18",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169613",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169613"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "10:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169618",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169618"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "14:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169619",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169619"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "17:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169620",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169620"
+                },
+                {
+                    "fecha": "2026-12-19",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169621",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169621"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "10:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169622",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169622"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "14:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169623",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169623"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "17:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169624",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169624"
+                },
+                {
+                    "fecha": "2026-12-20",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169625",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169625"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "10:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169626",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169626"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "14:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169627",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169627"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "17:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169628",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169628"
+                },
+                {
+                    "fecha": "2026-12-21",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169629",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169629"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "10:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169630",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169630"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "14:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169631",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169631"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "17:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169632",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169632"
+                },
+                {
+                    "fecha": "2026-12-22",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169633",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169633"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "10:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169634",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169634"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "14:20",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169635",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169635"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "17:55",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169636",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169636"
+                },
+                {
+                    "fecha": "2026-12-23",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "169637",
+                    "urlCompra": "https://www.cinemark.com.co/compras/duna-parte-3/2404/169637"
+                }
+            ]
+        },
+        {
+            "titulo": "BTS ARIRANG KAOHSIUNG",
+            "slug": "bts-arirang-kaohsiung",
+            "movieId": "113432",
+            "estado": "PREVENTA",
+            "duracionMinutos": 180,
+            "clasificacion": "TBC",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-11-21"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-11-21",
+                    "hora": "14:00",
+                    "idioma": [],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 183,
+                    "sessionId": "170003",
+                    "urlCompra": "https://www.cinemark.com.co/compras/bts-arirang-kaohsiung/2404/170003"
+                },
+                {
+                    "fecha": "2026-11-21",
+                    "hora": "18:15",
+                    "idioma": [],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170004",
+                    "urlCompra": "https://www.cinemark.com.co/compras/bts-arirang-kaohsiung/2404/170004"
+                }
+            ]
+        },
+        {
+            "titulo": "JUEGOS DEL HAMBRE: AMANECER",
+            "slug": "juegos-del-hambre-amanecer",
+            "movieId": "113722",
+            "estado": "PREVENTA",
+            "duracionMinutos": 160,
+            "clasificacion": "TBC",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-11-18",
+                "2026-11-19",
+                "2026-11-20",
+                "2026-11-21",
+                "2026-11-22",
+                "2026-11-23",
+                "2026-11-24",
+                "2026-11-25"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-11-18",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "170007",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/170007"
+                },
+                {
+                    "fecha": "2026-11-18",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 269,
+                    "sessionId": "169000",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169000"
+                },
+                {
+                    "fecha": "2026-11-18",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 277,
+                    "sessionId": "169001",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169001"
+                },
+                {
+                    "fecha": "2026-11-18",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 280,
+                    "sessionId": "169002",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169002"
+                },
+                {
+                    "fecha": "2026-11-19",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169109",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169109"
+                },
+                {
+                    "fecha": "2026-11-19",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169110",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169110"
+                },
+                {
+                    "fecha": "2026-11-19",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169111",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169111"
+                },
+                {
+                    "fecha": "2026-11-20",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 278,
+                    "sessionId": "169097",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169097"
+                },
+                {
+                    "fecha": "2026-11-20",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169098",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169098"
+                },
+                {
+                    "fecha": "2026-11-20",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169099",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169099"
+                },
+                {
+                    "fecha": "2026-11-21",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169112",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169112"
+                },
+                {
+                    "fecha": "2026-11-21",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169115",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169115"
+                },
+                {
+                    "fecha": "2026-11-21",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169113",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169113"
+                },
+                {
+                    "fecha": "2026-11-21",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169114",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169114"
+                },
+                {
+                    "fecha": "2026-11-22",
+                    "hora": "11:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169116",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169116"
+                },
+                {
+                    "fecha": "2026-11-22",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169119",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169119"
+                },
+                {
+                    "fecha": "2026-11-22",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169117",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169117"
+                },
+                {
+                    "fecha": "2026-11-22",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169118",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169118"
+                },
+                {
+                    "fecha": "2026-11-23",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169100",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169100"
+                },
+                {
+                    "fecha": "2026-11-23",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169101",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169101"
+                },
+                {
+                    "fecha": "2026-11-23",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169102",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169102"
+                },
+                {
+                    "fecha": "2026-11-24",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169103",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169103"
+                },
+                {
+                    "fecha": "2026-11-24",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169104",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169104"
+                },
+                {
+                    "fecha": "2026-11-24",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169105",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169105"
+                },
+                {
+                    "fecha": "2026-11-25",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169106",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169106"
+                },
+                {
+                    "fecha": "2026-11-25",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169107",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169107"
+                },
+                {
+                    "fecha": "2026-11-25",
+                    "hora": "21:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "169108",
+                    "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169108"
+                }
+            ]
+        },
+        {
+            "titulo": "EL GATO CON SOMBRERO",
+            "slug": "el-gato-con-sombrero",
+            "movieId": "113387",
+            "estado": "ESTRENO",
+            "duracionMinutos": 105,
+            "clasificacion": "7-A",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-11-09",
+                "2026-11-10",
+                "2026-11-11"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "14:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170238",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170238"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "15:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "170241",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170241"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "15:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 5,
+                    "puestosDisponibles": 197,
+                    "sessionId": "170250",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170250"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "17:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170239",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170239"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "170242",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170242"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "18:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 5,
+                    "puestosDisponibles": 197,
+                    "sessionId": "170251",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170251"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "20:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170252",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170252"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "20:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "170243",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170243"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "14:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170253",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170253"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "15:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "170256",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170256"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "15:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 5,
+                    "puestosDisponibles": 197,
+                    "sessionId": "170265",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170265"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "17:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170254",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170254"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "170257",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170257"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "18:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 5,
+                    "puestosDisponibles": 197,
+                    "sessionId": "170266",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170266"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "20:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170267",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170267"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "20:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "170258",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170258"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "14:40",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170268",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170268"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "15:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "3D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "170271",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170271"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "15:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 5,
+                    "puestosDisponibles": 197,
+                    "sessionId": "170280",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170280"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "17:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170269",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170269"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "18:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "170272",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170272"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "18:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 5,
+                    "puestosDisponibles": 197,
+                    "sessionId": "170281",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170281"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "20:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 1,
+                    "puestosDisponibles": 185,
+                    "sessionId": "170282",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170282"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "20:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 2,
+                    "puestosDisponibles": 251,
+                    "sessionId": "170273",
+                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170273"
+                }
+            ]
+        },
+        {
+            "titulo": "GODZILLA MINUS ZERO",
+            "slug": "godzilla-minus-zero",
+            "movieId": "113416",
+            "estado": "ESTRENO",
+            "duracionMinutos": 135,
+            "clasificacion": "12-A",
+            "cine": "Cinemark",
+            "sede": "San Pedro Plaza",
+            "ciudad": "Neiva",
+            "confirmadaEnNeiva": true,
+            "diasDisponibles": [
+                "2026-11-09",
+                "2026-11-10",
+                "2026-11-11"
+            ],
+            "funciones": [
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168252",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/168252"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "17:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "170306",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/170306"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "17:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 280,
+                    "sessionId": "168253",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/168253"
+                },
+                {
+                    "fecha": "2026-11-09",
+                    "hora": "21:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168254",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/168254"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168255",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/168255"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "17:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "170307",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/170307"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "17:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168256",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/168256"
+                },
+                {
+                    "fecha": "2026-11-10",
+                    "hora": "21:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168257",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/168257"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "14:30",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168258",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/168258"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "17:15",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL"
+                    ],
+                    "sala": 4,
+                    "puestosDisponibles": 260,
+                    "sessionId": "170308",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/170308"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "17:45",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168259",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/168259"
+                },
+                {
+                    "fecha": "2026-11-11",
+                    "hora": "21:00",
+                    "idioma": [
+                        "DOB"
+                    ],
+                    "formato": [
+                        "2D",
+                        "XD"
+                    ],
+                    "tipoAsiento": [
+                        "GENERAL",
+                        "DBOX"
+                    ],
+                    "sala": 6,
+                    "puestosDisponibles": 282,
+                    "sessionId": "168260",
+                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/168260"
+                }
+            ]
+        }
+    ]
+}
