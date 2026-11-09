@@ -1,7 +1,7 @@
 {
     "fuente": "Cinemark Colombia",
-    "cine": "Cinemark Prueba",
-    "sede": "San Pedrofdfd Plaza",
+    "cine": "Cinemark",
+    "sede": "San Pedro Plaza",
     "ciudad": "Neiva",
     "actualizado": "2026-11-09T00:24:56.865242-05:00",
     "peliculas": [
@@ -12,7 +12,7 @@
             "estado": "CARTELERA",
             "duracionMinutos": 110,
             "clasificacion": "15-A",
-            "cine": "Cinemark",
+            "cine": "Cinemark prueba",
             "sede": "San Pedro Plaza",
             "ciudad": "Neiva",
             "confirmadaEnNeiva": true,
