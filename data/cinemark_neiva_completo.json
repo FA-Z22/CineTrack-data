@@ -3,7 +3,7 @@
     "cine": "Cinemark",
     "sede": "San Pedro Plaza",
     "ciudad": "Neiva",
-    "actualizado": "2026-11-17T08:50:23.171431+00:00",
+    "actualizado": "2026-11-18T16:54:07.373152+00:00",
     "peliculas": [
         {
             "titulo": "EL GATO CON SOMBRERO",
@@ -17,95 +17,9 @@
             "ciudad": "Neiva",
             "confirmadaEnNeiva": true,
             "diasDisponibles": [
-                "2026-11-17",
                 "2026-11-18"
             ],
             "funciones": [
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "14:45",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 4,
-                    "puestosDisponibles": 260,
-                    "sessionId": "170545",
-                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170545"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "15:30",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 1,
-                    "puestosDisponibles": 185,
-                    "sessionId": "170536",
-                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170536"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "17:35",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 4,
-                    "puestosDisponibles": 260,
-                    "sessionId": "170546",
-                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170546"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "18:20",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 1,
-                    "puestosDisponibles": 185,
-                    "sessionId": "170645",
-                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170645"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "20:15",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 4,
-                    "puestosDisponibles": 260,
-                    "sessionId": "170547",
-                    "urlCompra": "https://www.cinemark.com.co/compras/el-gato-con-sombrero/2404/170547"
-                },
                 {
                     "fecha": "2026-11-18",
                     "hora": "14:40",
@@ -171,64 +85,9 @@
             "ciudad": "Neiva",
             "confirmadaEnNeiva": true,
             "diasDisponibles": [
-                "2026-11-17",
                 "2026-11-18"
             ],
             "funciones": [
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "14:25",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL",
-                        "DBOX"
-                    ],
-                    "sala": 2,
-                    "puestosDisponibles": 251,
-                    "sessionId": "170539",
-                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/170539"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "17:50",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL",
-                        "DBOX"
-                    ],
-                    "sala": 2,
-                    "puestosDisponibles": 251,
-                    "sessionId": "170540",
-                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/170540"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "21:00",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL",
-                        "DBOX"
-                    ],
-                    "sala": 2,
-                    "puestosDisponibles": 251,
-                    "sessionId": "170541",
-                    "urlCompra": "https://www.cinemark.com.co/compras/godzilla-minus-zero/2404/170541"
-                },
                 {
                     "fecha": "2026-11-18",
                     "hora": "15:10",
@@ -329,7 +188,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 109,
+                    "puestosDisponibles": 103,
                     "sessionId": "167448",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167448"
                 },
@@ -347,7 +206,7 @@
                         "GENERAL"
                     ],
                     "sala": 4,
-                    "puestosDisponibles": 232,
+                    "puestosDisponibles": 229,
                     "sessionId": "168067",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/168067"
                 },
@@ -440,7 +299,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 199,
+                    "puestosDisponibles": 195,
                     "sessionId": "167638",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167638"
                 },
@@ -457,7 +316,7 @@
                         "GENERAL"
                     ],
                     "sala": 3,
-                    "puestosDisponibles": 229,
+                    "puestosDisponibles": 227,
                     "sessionId": "167942",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167942"
                 },
@@ -475,7 +334,7 @@
                         "GENERAL"
                     ],
                     "sala": 4,
-                    "puestosDisponibles": 208,
+                    "puestosDisponibles": 204,
                     "sessionId": "167643",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167643"
                 },
@@ -495,7 +354,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 144,
+                    "puestosDisponibles": 141,
                     "sessionId": "167639",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167639"
                 },
@@ -512,7 +371,7 @@
                         "GENERAL"
                     ],
                     "sala": 3,
-                    "puestosDisponibles": 222,
+                    "puestosDisponibles": 220,
                     "sessionId": "167943",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167943"
                 },
@@ -530,7 +389,7 @@
                         "GENERAL"
                     ],
                     "sala": 4,
-                    "puestosDisponibles": 217,
+                    "puestosDisponibles": 209,
                     "sessionId": "167644",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167644"
                 },
@@ -605,7 +464,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 274,
+                    "puestosDisponibles": 272,
                     "sessionId": "167524",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167524"
                 },
@@ -770,7 +629,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 268,
+                    "puestosDisponibles": 264,
                     "sessionId": "167527",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167527"
                 },
@@ -1155,7 +1014,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 266,
+                    "puestosDisponibles": 262,
                     "sessionId": "167534",
                     "urlCompra": "https://www.cinemark.com.co/compras/avengers-doomsday/2404/167534"
                 },
@@ -3323,7 +3182,7 @@
                         "GENERAL"
                     ],
                     "sala": 1,
-                    "puestosDisponibles": 181,
+                    "puestosDisponibles": 179,
                     "sessionId": "170004",
                     "urlCompra": "https://www.cinemark.com.co/compras/bts-arirang-kaohsiung/2404/170004"
                 }
@@ -3335,7 +3194,7 @@
             "movieId": "113722",
             "estado": "PREVENTA",
             "duracionMinutos": 160,
-            "clasificacion": "TBC",
+            "clasificacion": "12-A",
             "cine": "Cinemark",
             "sede": "San Pedro Plaza",
             "ciudad": "Neiva",
@@ -3366,7 +3225,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 260,
+                    "puestosDisponibles": 255,
                     "sessionId": "169000",
                     "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169000"
                 },
@@ -3385,7 +3244,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 261,
+                    "puestosDisponibles": 247,
                     "sessionId": "169001",
                     "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169001"
                 },
@@ -3404,7 +3263,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 271,
+                    "puestosDisponibles": 267,
                     "sessionId": "169002",
                     "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169002"
                 },
@@ -3442,7 +3301,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 279,
+                    "puestosDisponibles": 276,
                     "sessionId": "169110",
                     "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169110"
                 },
@@ -3518,7 +3377,7 @@
                         "DBOX"
                     ],
                     "sala": 6,
-                    "puestosDisponibles": 282,
+                    "puestosDisponibles": 280,
                     "sessionId": "169099",
                     "urlCompra": "https://www.cinemark.com.co/compras/juegos-del-hambre-amanecer/2404/169099"
                 },
@@ -3859,84 +3718,9 @@
             "ciudad": "Neiva",
             "confirmadaEnNeiva": true,
             "diasDisponibles": [
-                "2026-11-17",
                 "2026-11-18"
             ],
             "funciones": [
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "14:55",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D",
-                        "XD"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL",
-                        "DBOX"
-                    ],
-                    "sala": 6,
-                    "puestosDisponibles": 282,
-                    "sessionId": "170551",
-                    "urlCompra": "https://www.cinemark.com.co/compras/ebenezer/2404/170551"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "18:05",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D",
-                        "XD"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL",
-                        "DBOX"
-                    ],
-                    "sala": 6,
-                    "puestosDisponibles": 282,
-                    "sessionId": "170552",
-                    "urlCompra": "https://www.cinemark.com.co/compras/ebenezer/2404/170552"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "18:35",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 5,
-                    "puestosDisponibles": 197,
-                    "sessionId": "170636",
-                    "urlCompra": "https://www.cinemark.com.co/compras/ebenezer/2404/170636"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "20:45",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D",
-                        "XD"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL",
-                        "DBOX"
-                    ],
-                    "sala": 6,
-                    "puestosDisponibles": 282,
-                    "sessionId": "170553",
-                    "urlCompra": "https://www.cinemark.com.co/compras/ebenezer/2404/170553"
-                },
                 {
                     "fecha": "2026-11-18",
                     "hora": "14:50",
@@ -3967,7 +3751,7 @@
                         "GENERAL"
                     ],
                     "sala": 1,
-                    "puestosDisponibles": 185,
+                    "puestosDisponibles": 181,
                     "sessionId": "170333",
                     "urlCompra": "https://www.cinemark.com.co/compras/ebenezer/2404/170333"
                 },
@@ -4019,44 +3803,9 @@
             "ciudad": "Neiva",
             "confirmadaEnNeiva": true,
             "diasDisponibles": [
-                "2026-11-17",
                 "2026-11-18"
             ],
             "funciones": [
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "17:20",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 3,
-                    "puestosDisponibles": 237,
-                    "sessionId": "170543",
-                    "urlCompra": "https://www.cinemark.com.co/compras/yo-soy-rocky/2404/170543"
-                },
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "20:30",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 3,
-                    "puestosDisponibles": 237,
-                    "sessionId": "170544",
-                    "urlCompra": "https://www.cinemark.com.co/compras/yo-soy-rocky/2404/170544"
-                },
                 {
                     "fecha": "2026-11-18",
                     "hora": "17:30",
@@ -4094,40 +3843,6 @@
             ]
         },
         {
-            "titulo": "RÁPIDO Y FURIOSO RE",
-            "slug": "rapido-y-furioso-re",
-            "movieId": "113897",
-            "estado": "ESTRENO",
-            "duracionMinutos": 110,
-            "clasificacion": "12-A",
-            "cine": "Cinemark",
-            "sede": "San Pedro Plaza",
-            "ciudad": "Neiva",
-            "confirmadaEnNeiva": true,
-            "diasDisponibles": [
-                "2026-11-17"
-            ],
-            "funciones": [
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "21:15",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 1,
-                    "puestosDisponibles": 185,
-                    "sessionId": "170538",
-                    "urlCompra": "https://www.cinemark.com.co/compras/rapido-y-furioso-re/2404/170538"
-                }
-            ]
-        },
-        {
             "titulo": "CÓMO ROBAR UN BANCO",
             "slug": "como-robar-un-banco",
             "movieId": "113514",
@@ -4139,27 +3854,9 @@
             "ciudad": "Neiva",
             "confirmadaEnNeiva": true,
             "diasDisponibles": [
-                "2026-11-17",
                 "2026-11-18"
             ],
             "funciones": [
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "15:45",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 5,
-                    "puestosDisponibles": 197,
-                    "sessionId": "170548",
-                    "urlCompra": "https://www.cinemark.com.co/compras/como-robar-un-banco/2404/170548"
-                },
                 {
                     "fecha": "2026-11-18",
                     "hora": "16:00",
@@ -4191,27 +3888,9 @@
             "ciudad": "Neiva",
             "confirmadaEnNeiva": true,
             "diasDisponibles": [
-                "2026-11-17",
                 "2026-11-18"
             ],
             "funciones": [
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "21:30",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 5,
-                    "puestosDisponibles": 197,
-                    "sessionId": "170550",
-                    "urlCompra": "https://www.cinemark.com.co/compras/la-posesion-de-bruja/2404/170550"
-                },
                 {
                     "fecha": "2026-11-18",
                     "hora": "21:50",
@@ -4243,27 +3922,9 @@
             "ciudad": "Neiva",
             "confirmadaEnNeiva": true,
             "diasDisponibles": [
-                "2026-11-17",
                 "2026-11-18"
             ],
             "funciones": [
-                {
-                    "fecha": "2026-11-17",
-                    "hora": "14:35",
-                    "idioma": [
-                        "DOB"
-                    ],
-                    "formato": [
-                        "2D"
-                    ],
-                    "tipoAsiento": [
-                        "GENERAL"
-                    ],
-                    "sala": 3,
-                    "puestosDisponibles": 237,
-                    "sessionId": "170542",
-                    "urlCompra": "https://www.cinemark.com.co/compras/encanto-re/2404/170542"
-                },
                 {
                     "fecha": "2026-11-18",
                     "hora": "15:00",
